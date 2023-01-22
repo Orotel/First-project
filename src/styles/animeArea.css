@@ -1,7 +1,10 @@
+body{
+  background-color: #A6A6A6;    
+}
 #animeArea {
     display: inline-flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    
+    background-color: #A6A6A6;    
   }
